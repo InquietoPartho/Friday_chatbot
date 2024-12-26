@@ -48,7 +48,7 @@ You can also try the live demo of the chatbot at: [Friday Chatbot](https://frida
 
 ## App Preview
 
-![Friday Chatbot Preview](assests\chat_preview.png)
+![Friday Chatbot Preview](assests/chat_preview.png?raw=true)
 
 ## Files Overview
 
